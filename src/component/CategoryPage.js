@@ -19,6 +19,7 @@ const productsData = {
     { id: 13, name: 'PC Huawei MateBook', price: '8000 MAD' },
     { id: 14, name: 'PC Dell Latitude', price: '5900 MAD' },
     { id: 15, name: 'PC HP Envy', price: '6700 MAD' },
+    { id: 15, name: 'PC HP Envy', price: '6700 MAD' },
   ],
   pcgamer: [
     { id: 1, name: 'PC Gamer Alienware', price: '15000 MAD' },
